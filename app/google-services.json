@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "103380472878",
+    "project_id": "android-academy-hellow-world",
+    "storage_bucket": "android-academy-hellow-world.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:103380472878:android:384c304b87ba469de7bbbf",
+        "android_client_info": {
+          "package_name": "com.example.hellowworld"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "103380472878-t19vldhm9cfd7b71b5o1cuhata0g924d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNxejg25SizWpBk_8LR7x7bKPCa7bK_Kk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "103380472878-t19vldhm9cfd7b71b5o1cuhata0g924d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
